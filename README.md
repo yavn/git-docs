@@ -1,6 +1,9 @@
 # git-docs
-Git learning materials
 
-This repository is just a placeholder. Actual content is located in the Wiki repository.
+*(Most content here is currently in Polish.)*
 
-[Go to the Wiki](https://github.com/yavn/git-docs/wiki)
+W tym miejscu pojawią się odnośniki do artykułów.
+
+Wszystkie materiały, chyba że jest napisane inaczej, objęte są licencją CC-BY-SA.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
