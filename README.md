@@ -2,7 +2,8 @@
 
 *(Most content here is currently in Polish.)*
 
-W tym miejscu pojawią się odnośniki do artykułów.
+* Warsztaty Git
+  1. [Remote](workshop/remote.md) - repozytoria i branche zdalne
 
 Wszystkie materiały, chyba że jest napisane inaczej, objęte są licencją CC-BY-SA.
 
