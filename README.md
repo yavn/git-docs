@@ -2,6 +2,8 @@
 
 *(Most content here is currently in Polish.)*
 
+* Materiały do nauki
+  1. [Wprowadzenie do Gita](guide/git-guide.md) - krótki kurs z ilustracjami
 * Warsztaty Git
   1. [Remote](workshop/remote.md) - repozytoria i branche zdalne
 
